@@ -13,6 +13,8 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.println("----hello");
+        System.out.println("----hello2222");
+
     }
 
 
