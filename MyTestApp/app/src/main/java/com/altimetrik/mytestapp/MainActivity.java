@@ -18,6 +18,8 @@ public class MainActivity extends ActionBarActivity {
 
         System.out.println("----hello444444");
         System.out.println("----hello55555555555");
+        System.out.println("----hello666666666");
+        System.out.println("----hello77777777");
 
     }
 
